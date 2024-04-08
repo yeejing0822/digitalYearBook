@@ -76,7 +76,7 @@ Here is some sample screenshots of digital yearbook web applications
 ![image](https://github.com/yeejing0822/digitalYearBook/assets/86753374/f978051a-1f8a-45c6-a700-44de7d7679b8)
 
 In conclusion, the project objectives were achieved successfully.  However, there are still  chance for improvement for this project for developers who interested to enhance it in future. Realtime notification enhancement, design options provision, add friends and forum feature provision and history list provision are the recommendations to improve this project make this project more functionality and usability.
-![image](https://github.com/yeejing0822/digitalYearBook/assets/86753374/e72c0979-d3c4-4172-bf57-a3b5ec6a223c)
+
 
 
 
